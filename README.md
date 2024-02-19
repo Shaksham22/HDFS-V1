@@ -1,1 +1,2 @@
 # HDFS-V1
+This is an attemp to replicate the [HDFS File System](https://ieeexplore.ieee.org/document/5496972) research paper presented by Yahoo. It consists of three components. The NameNode, DataNode and HDFS client. It is able to handle csv files. It was initially also able to handle the json files but I had altered it for as specific implementation. I will soon add the details on the functioning and the way to run this on a locat PC network.
